@@ -5,6 +5,10 @@ Below is an example of a simple README file for a news app using HTML, CSS, and 
 
 ![News App Logo](![image](https://github.com/SukanyaGhosh6/News-App/assets/78369568/0b418396-33a2-47fd-aab2-a7ab395402b2))
 
+# Screenshots of the website
+![Uploading Screenshot (124).png…]()
+![Uploading Screenshot (125).png…]()
+
 
 
 
