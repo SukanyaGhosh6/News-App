@@ -60,9 +60,6 @@ We welcome contributions to the News App. If you want to contribute to the proje
 
 Please ensure your pull request follows the coding standards and includes a detailed description of your changes.
 
-## License
-The News App is open-source and released under the [MIT License](LICENSE).
 
----
 
 Feel free to customize this README file based on your app's specific features and requirements. Make sure to include information about any additional libraries or tools required for running the app if necessary. Additionally, provide clear instructions for users on how to use and set up the app locally.
