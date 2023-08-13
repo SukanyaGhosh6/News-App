@@ -1,14 +1,12 @@
 
 # News-App
-This is a simple news app that displays the latest news articles from various sources. It is built using HTML, CSS, and JavaScript. The app fetches news data from a third-party API and presents it in a user-friendly interface.
+This is a simple news app that displays the latest news articles from various sources. It is built using HTML, CSS, and JavaScript, making it lightweight and easy to use. The app fetches news data from a third-party API and presents it in a user-friendly interface.
 
 # Screenshots of the website
 ![Screenshot (159)](https://github.com/SukanyaGhosh6/News-App/assets/78369568/825a4ed9-1b2b-4a43-94e2-1dca68b411dc)
 ![Screenshot (160)](https://github.com/SukanyaGhosh6/News-App/assets/78369568/72920403-0424-46f2-9773-a06109cb4392)
 ![Screenshot (161)](https://github.com/SukanyaGhosh6/News-App/assets/78369568/a4d42837-67f4-46a2-9fb9-99c0ef3502c5)
 
-## Introduction
-The News App is a web application that provides users with the latest news and updates from various sources. It is built using HTML, CSS, and JavaScript, making it lightweight and easy to use. The app fetches news data from a third-party API and displays it in a user-friendly interface.
 
 ## Features
 - Browse news articles by category (e.g., technology, sports, entertainment).
