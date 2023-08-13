@@ -1,6 +1,6 @@
 
 # News-App
-Below is an example of a simple README file for a news app using HTML, CSS, and JavaScript:
+This is a simple news app that displays the latest news articles from various sources. It is built using HTML, CSS, and JavaScript. The app fetches news data from a third-party API and presents it in a user-friendly interface.
 
 # Screenshots of the website
 ![Screenshot (159)](https://github.com/SukanyaGhosh6/News-App/assets/78369568/825a4ed9-1b2b-4a43-94e2-1dca68b411dc)
@@ -45,7 +45,7 @@ Once you have set up the app, follow these steps to use it:
 4. Scroll down to explore more news articles.
 
 ## Contributing
-We welcome contributions to the News App. If you want to contribute to the project, follow these steps:
+I welcome contributions to the News App. If you want to contribute to the project, follow these steps:
 
 1. Fork the repository.
 2. Create a new branch: `git checkout -b feature/your-feature-name`.
