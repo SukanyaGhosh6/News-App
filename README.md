@@ -21,7 +21,7 @@ To set up the News App locally on your machine, follow the instructions below:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/news-app.git
+   git clone https://github.com/SukanyaGhosh6/news-app.git
    cd news-app
    ```
 
